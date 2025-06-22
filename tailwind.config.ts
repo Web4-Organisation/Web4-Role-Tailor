@@ -17,9 +17,9 @@ export default {
     },
     extend: {
       fontFamily: {
-        body: ['Alegreya', 'serif'],
-        headline: ['Belleza', 'sans-serif'],
-        code: ['monospace'],
+        body: ['"Cutive Mono"', 'monospace'],
+        headline: ['"Cutive Mono"', 'monospace'],
+        code: ['"Cutive Mono"', 'monospace'],
       },
       colors: {
         background: 'hsl(var(--background))',
