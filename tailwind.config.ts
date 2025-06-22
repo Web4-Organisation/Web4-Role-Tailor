@@ -17,9 +17,9 @@ export default {
     },
     extend: {
       fontFamily: {
-        body: ['"Cutive Mono"', 'monospace'],
-        headline: ['"Cutive Mono"', 'monospace'],
-        code: ['"Cutive Mono"', 'monospace'],
+        body: ['"Courier New"', 'monospace'],
+        headline: ['"Courier New"', 'monospace'],
+        code: ['"Courier New"', 'monospace'],
       },
       colors: {
         background: 'hsl(var(--background))',
