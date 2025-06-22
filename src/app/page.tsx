@@ -9,7 +9,7 @@ import { Separator } from '@/components/ui/separator';
 
 export default function Home() {
   const [roles, setRoles] = useState<Role[]>([]);
-  const [appName, setAppName] = useState<string>('MyApp');
+  const [appName, setAppName] = useState<string>('Web4MyApp');
 
   return (
     <div className="flex flex-col min-h-screen bg-background text-foreground font-body">

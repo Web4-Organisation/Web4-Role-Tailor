@@ -11,7 +11,7 @@ export function Header() {
             <path d="M18 21.5C18 20.1193 15.3137 19 12 19C8.68629 19 6 20.1193 6 21.5" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
           </svg>
         </div>
-        <h1 className="text-3xl font-headline font-bold text-primary">RoleTailor</h1>
+        <h1 className="text-3xl font-headline font-bold text-primary">Web4RoleTailor</h1>
         <p className="text-muted-foreground mt-1.5 ml-2 hidden md:block">Define user roles and permissions with AI.</p>
       </div>
     </header>

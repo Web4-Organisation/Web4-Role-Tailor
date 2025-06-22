@@ -1,6 +1,6 @@
-# RoleTailor
+# Web4RoleTailor
 
-Welcome to **RoleTailor**, an intelligent tool designed to help you define user roles and permissions for your applications with ease. By leveraging AI, RoleTailor guides you through an interactive process, suggesting roles and generating ready-to-use configuration files in JSON or YAML format.
+Welcome to **Web4RoleTailor**, an intelligent tool designed to help you define user roles and permissions for your applications with ease. By leveraging AI, Web4RoleTailor guides you through an interactive process, suggesting roles and generating ready-to-use configuration files in JSON or YAML format.
 
 ## ✨ Features
 
@@ -24,8 +24,8 @@ To get the application up and running, follow these simple steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/roletailor.git
-    cd roletailor
+    git clone https://github.com/your-username/web4-roletailor.git
+    cd web4-roletailor
     ```
 
 2.  **Install dependencies:**
